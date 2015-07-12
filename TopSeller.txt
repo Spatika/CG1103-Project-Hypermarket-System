@@ -1,0 +1,6 @@
+Number 1 selling product:
+Total revenue: $45807.8
+Product Name: Computers_9
+Barcode Number: 1000009
+
+

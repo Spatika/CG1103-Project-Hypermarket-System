@@ -1,0 +1,265 @@
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Shoes_9992
+Barcode Number: 1009992
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Hardware_9613
+Barcode Number: 1009613
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Lady's Accessories_9513
+Barcode Number: 1009513
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Poultry_9380
+Barcode Number: 1009380
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Shoes_8926
+Barcode Number: 1008926
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Clothing_8667
+Barcode Number: 1008667
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Camping Equipment_8661
+Barcode Number: 1008661
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Camping Equipment_8511
+Barcode Number: 1008511
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Clothing_8350
+Barcode Number: 1008350
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Lady's Accessories_8276
+Barcode Number: 1008276
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Hardware_7280
+Barcode Number: 1007280
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Clothing_7015
+Barcode Number: 1007015
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Shoes_6755
+Barcode Number: 1006755
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Camping Equipment_6250
+Barcode Number: 1006250
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Poultry_5870
+Barcode Number: 1005870
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Computers_5540
+Barcode Number: 1005540
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Stationary_5516
+Barcode Number: 1005516
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Meat_5476
+Barcode Number: 1005476
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Stationary_5468
+Barcode Number: 1005468
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Meat_5293
+Barcode Number: 1005293
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Shoes_5039
+Barcode Number: 1005039
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Shoes_4905
+Barcode Number: 1004905
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Stationary_4777
+Barcode Number: 1004777
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Clothing_4541
+Barcode Number: 1004541
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Stationary_4489
+Barcode Number: 1004489
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Lady's Accessories_4442
+Barcode Number: 1004442
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Hardware_4433
+Barcode Number: 1004433
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Camping Equipment_4403
+Barcode Number: 1004403
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Shoes_4346
+Barcode Number: 1004346
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Fruit_4192
+Barcode Number: 1004192
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Lady's Accessories_4000
+Barcode Number: 1004000
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Computers_3847
+Barcode Number: 1003847
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Poultry_3468
+Barcode Number: 1003468
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Poultry_3397
+Barcode Number: 1003397
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Hardware_3362
+Barcode Number: 1003362
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Camping Equipment_3313
+Barcode Number: 1003313
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Poultry_3223
+Barcode Number: 1003223
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Meat_2605
+Barcode Number: 1002605
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Computers_2435
+Barcode Number: 1002435
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Computers_2243
+Barcode Number: 1002243
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Camping Equipment_1757
+Barcode Number: 1001757
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Hardware_1695
+Barcode Number: 1001695
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Fruit_1306
+Barcode Number: 1001306
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Shoes_1267
+Barcode Number: 1001267
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Computers_912
+Barcode Number: 1000912
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Stationary_857
+Barcode Number: 1000857
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Camping Equipment_761
+Barcode Number: 1000761
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Computers_579
+Barcode Number: 1000579
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Poultry_179
+Barcode Number: 1000179
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Poultry_2261
+Barcode Number: 1002261
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Fruit_2259
+Barcode Number: 1002259
+
+Number 1 lowest selling product:
+Total revenue: $0
+Product Name: Lady's Accessories_2258
+Barcode Number: 1002258
+
+Number 2 lowest selling product:
+Total revenue: $0.78
+Product Name: Lady's Accessories_6462
+Barcode Number: 1006462
+

@@ -1,0 +1,620 @@
+Products expiring within a week from 12/4/2012 to 19/4/2012
+
+Product Name: Lady's Accessories_61
+Barcode Number: 1000061
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 17/4/2012
+
+Product Name: Fruit_99
+Barcode Number: 1000099
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 19/4/2012
+
+Product Name: Fruit_311
+Barcode Number: 1000311
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 17/4/2012
+
+Product Name: Clothing_394
+Barcode Number: 1000394
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 16/4/2012
+
+Product Name: Stationary_851
+Barcode Number: 1000851
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 15/4/2012
+
+Product Name: Computers_1228
+Barcode Number: 1001228
+Category: Computers
+Manufacturer: HP
+Expiry date: 14/4/2012
+
+Product Name: Meat_1259
+Barcode Number: 1001259
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 12/4/2012
+
+Product Name: Stationary_1424
+Barcode Number: 1001424
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 18/4/2012
+
+Product Name: Computers_1454
+Barcode Number: 1001454
+Category: Computers
+Manufacturer: HP
+Expiry date: 12/4/2012
+
+Product Name: Lady's Accessories_1461
+Barcode Number: 1001461
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 18/4/2012
+
+Product Name: Lady's Accessories_1473
+Barcode Number: 1001473
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 17/4/2012
+
+Product Name: Stationary_1520
+Barcode Number: 1001520
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 14/4/2012
+
+Product Name: Shoes_1527
+Barcode Number: 1001527
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 14/4/2012
+
+Product Name: Shoes_1567
+Barcode Number: 1001567
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 17/4/2012
+
+Product Name: Clothing_1614
+Barcode Number: 1001614
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 13/4/2012
+
+Product Name: Fruit_2017
+Barcode Number: 1002017
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 19/4/2012
+
+Product Name: Computers_2049
+Barcode Number: 1002049
+Category: Computers
+Manufacturer: HP
+Expiry date: 18/4/2012
+
+Product Name: Computers_2050
+Barcode Number: 1002050
+Category: Computers
+Manufacturer: HP
+Expiry date: 16/4/2012
+
+Product Name: Meat_2128
+Barcode Number: 1002128
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 13/4/2012
+
+Product Name: Meat_2168
+Barcode Number: 1002168
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 17/4/2012
+
+Product Name: Hardware_2200
+Barcode Number: 1002200
+Category: Hardware
+Manufacturer: HP
+Expiry date: 18/4/2012
+
+Product Name: Lady's Accessories_2231
+Barcode Number: 1002231
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 12/4/2012
+
+Product Name: Poultry_2240
+Barcode Number: 1002240
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 18/4/2012
+
+Product Name: Hardware_2283
+Barcode Number: 1002283
+Category: Hardware
+Manufacturer: HP
+Expiry date: 12/4/2012
+
+Product Name: Computers_2421
+Barcode Number: 1002421
+Category: Computers
+Manufacturer: HP
+Expiry date: 14/4/2012
+
+Product Name: Meat_2561
+Barcode Number: 1002561
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 15/4/2012
+
+Product Name: Hardware_2695
+Barcode Number: 1002695
+Category: Hardware
+Manufacturer: HP
+Expiry date: 15/4/2012
+
+Product Name: Lady's Accessories_2769
+Barcode Number: 1002769
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 17/4/2012
+
+Product Name: Stationary_2831
+Barcode Number: 1002831
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 17/4/2012
+
+Product Name: Shoes_2850
+Barcode Number: 1002850
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 18/4/2012
+
+Product Name: Poultry_2852
+Barcode Number: 1002852
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 14/4/2012
+
+Product Name: Shoes_2910
+Barcode Number: 1002910
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 18/4/2012
+
+Product Name: Shoes_2953
+Barcode Number: 1002953
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 13/4/2012
+
+Product Name: Hardware_3001
+Barcode Number: 1003001
+Category: Hardware
+Manufacturer: HP
+Expiry date: 19/4/2012
+
+Product Name: Clothing_3005
+Barcode Number: 1003005
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 19/4/2012
+
+Product Name: Clothing_3041
+Barcode Number: 1003041
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 12/4/2012
+
+Product Name: Computers_3055
+Barcode Number: 1003055
+Category: Computers
+Manufacturer: HP
+Expiry date: 16/4/2012
+
+Product Name: Clothing_3131
+Barcode Number: 1003131
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 15/4/2012
+
+Product Name: Lady's Accessories_3220
+Barcode Number: 1003220
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 12/4/2012
+
+Product Name: Hardware_3455
+Barcode Number: 1003455
+Category: Hardware
+Manufacturer: HP
+Expiry date: 18/4/2012
+
+Product Name: Poultry_3673
+Barcode Number: 1003673
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 15/4/2012
+
+Product Name: Shoes_3807
+Barcode Number: 1003807
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 13/4/2012
+
+Product Name: Camping Equipment_4035
+Barcode Number: 1004035
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 19/4/2012
+
+Product Name: Camping Equipment_4113
+Barcode Number: 1004113
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 18/4/2012
+
+Product Name: Clothing_4236
+Barcode Number: 1004236
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 19/4/2012
+
+Product Name: Computers_4267
+Barcode Number: 1004267
+Category: Computers
+Manufacturer: HP
+Expiry date: 13/4/2012
+
+Product Name: Hardware_4486
+Barcode Number: 1004486
+Category: Hardware
+Manufacturer: HP
+Expiry date: 18/4/2012
+
+Product Name: Lady's Accessories_4492
+Barcode Number: 1004492
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 13/4/2012
+
+Product Name: Clothing_4542
+Barcode Number: 1004542
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 16/4/2012
+
+Product Name: Camping Equipment_4602
+Barcode Number: 1004602
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 15/4/2012
+
+Product Name: Camping Equipment_4669
+Barcode Number: 1004669
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 15/4/2012
+
+Product Name: Computers_5026
+Barcode Number: 1005026
+Category: Computers
+Manufacturer: HP
+Expiry date: 12/4/2012
+
+Product Name: Fruit_5059
+Barcode Number: 1005059
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 16/4/2012
+
+Product Name: Meat_5103
+Barcode Number: 1005103
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 12/4/2012
+
+Product Name: Shoes_5119
+Barcode Number: 1005119
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 13/4/2012
+
+Product Name: Fruit_5172
+Barcode Number: 1005172
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 12/4/2012
+
+Product Name: Clothing_5199
+Barcode Number: 1005199
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 16/4/2012
+
+Product Name: Stationary_5399
+Barcode Number: 1005399
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 17/4/2012
+
+Product Name: Poultry_5410
+Barcode Number: 1005410
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 13/4/2012
+
+Product Name: Stationary_5537
+Barcode Number: 1005537
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 15/4/2012
+
+Product Name: Meat_5744
+Barcode Number: 1005744
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 18/4/2012
+
+Product Name: Shoes_5754
+Barcode Number: 1005754
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 14/4/2012
+
+Product Name: Clothing_5773
+Barcode Number: 1005773
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 18/4/2012
+
+Product Name: Poultry_5782
+Barcode Number: 1005782
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 19/4/2012
+
+Product Name: Poultry_5828
+Barcode Number: 1005828
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 16/4/2012
+
+Product Name: Camping Equipment_5854
+Barcode Number: 1005854
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 18/4/2012
+
+Product Name: Computers_6043
+Barcode Number: 1006043
+Category: Computers
+Manufacturer: HP
+Expiry date: 19/4/2012
+
+Product Name: Hardware_6262
+Barcode Number: 1006262
+Category: Hardware
+Manufacturer: HP
+Expiry date: 12/4/2012
+
+Product Name: Camping Equipment_6384
+Barcode Number: 1006384
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 17/4/2012
+
+Product Name: Stationary_6407
+Barcode Number: 1006407
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 19/4/2012
+
+Product Name: Stationary_6606
+Barcode Number: 1006606
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 17/4/2012
+
+Product Name: Meat_6753
+Barcode Number: 1006753
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 17/4/2012
+
+Product Name: Hardware_6860
+Barcode Number: 1006860
+Category: Hardware
+Manufacturer: HP
+Expiry date: 19/4/2012
+
+Product Name: Meat_6946
+Barcode Number: 1006946
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 16/4/2012
+
+Product Name: Fruit_7013
+Barcode Number: 1007013
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 13/4/2012
+
+Product Name: Computers_7164
+Barcode Number: 1007164
+Category: Computers
+Manufacturer: HP
+Expiry date: 13/4/2012
+
+Product Name: Shoes_7185
+Barcode Number: 1007185
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 13/4/2012
+
+Product Name: Stationary_7290
+Barcode Number: 1007290
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 16/4/2012
+
+Product Name: Clothing_7306
+Barcode Number: 1007306
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 14/4/2012
+
+Product Name: Stationary_7820
+Barcode Number: 1007820
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 17/4/2012
+
+Product Name: Computers_7845
+Barcode Number: 1007845
+Category: Computers
+Manufacturer: HP
+Expiry date: 16/4/2012
+
+Product Name: Fruit_8126
+Barcode Number: 1008126
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 12/4/2012
+
+Product Name: Hardware_8137
+Barcode Number: 1008137
+Category: Hardware
+Manufacturer: HP
+Expiry date: 12/4/2012
+
+Product Name: Poultry_8167
+Barcode Number: 1008167
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 15/4/2012
+
+Product Name: Stationary_8224
+Barcode Number: 1008224
+Category: Stationary
+Manufacturer: Parker
+Expiry date: 18/4/2012
+
+Product Name: Computers_8245
+Barcode Number: 1008245
+Category: Computers
+Manufacturer: HP
+Expiry date: 16/4/2012
+
+Product Name: Camping Equipment_8248
+Barcode Number: 1008248
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 15/4/2012
+
+Product Name: Shoes_8428
+Barcode Number: 1008428
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 19/4/2012
+
+Product Name: Meat_8433
+Barcode Number: 1008433
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 18/4/2012
+
+Product Name: Meat_8483
+Barcode Number: 1008483
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 14/4/2012
+
+Product Name: Shoes_8774
+Barcode Number: 1008774
+Category: Shoes
+Manufacturer: Nike
+Expiry date: 13/4/2012
+
+Product Name: Fruit_8785
+Barcode Number: 1008785
+Category: Fruit
+Manufacturer: The Sunkist Co
+Expiry date: 12/4/2012
+
+Product Name: Poultry_8894
+Barcode Number: 1008894
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 19/4/2012
+
+Product Name: Computers_8966
+Barcode Number: 1008966
+Category: Computers
+Manufacturer: HP
+Expiry date: 19/4/2012
+
+Product Name: Clothing_9184
+Barcode Number: 1009184
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 12/4/2012
+
+Product Name: Clothing_9312
+Barcode Number: 1009312
+Category: Clothing
+Manufacturer: Levis
+Expiry date: 12/4/2012
+
+Product Name: Lady's Accessories_9318
+Barcode Number: 1009318
+Category: Lady's Accessories
+Manufacturer: Tiffany and Co
+Expiry date: 19/4/2012
+
+Product Name: Computers_9379
+Barcode Number: 1009379
+Category: Computers
+Manufacturer: HP
+Expiry date: 12/4/2012
+
+Product Name: Poultry_9481
+Barcode Number: 1009481
+Category: Poultry
+Manufacturer: Kentucky Chicken
+Expiry date: 15/4/2012
+
+Product Name: Meat_9486
+Barcode Number: 1009486
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 17/4/2012
+
+Product Name: Meat_9637
+Barcode Number: 1009637
+Category: Meat
+Manufacturer: Super Pig
+Expiry date: 18/4/2012
+
+Product Name: Computers_9785
+Barcode Number: 1009785
+Category: Computers
+Manufacturer: HP
+Expiry date: 14/4/2012
+
+Product Name: Camping Equipment_9814
+Barcode Number: 1009814
+Category: Camping Equipment
+Manufacturer: ODAC Pte Ltd
+Expiry date: 16/4/2012
+
